@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(229, 222, 214);
+}
+h2{
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.card-cont{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    background-color:  rgb(229, 222, 214);
+    
+}
+.card{
+    width:225px ;
+    height: 300px;
+    margin-left: 70px;
+    background-color: rgb(255, 255, 255);
+    border-radius:5px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+   
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+
+}
